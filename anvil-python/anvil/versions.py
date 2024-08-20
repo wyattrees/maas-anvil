@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-MAAS_REGION_CHANNEL = "latest/edge"
+MAAS_REGION_CHANNEL = "latest/edge/wyatt-test"
 MAAS_AGENT_CHANNEL = "latest/edge"
 POSTGRESQL_CHANNEL = "14/stable"
 PGBOUNCER_CHANNEL = "1/stable"

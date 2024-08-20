@@ -16,7 +16,7 @@
 variable "charm_maas_region_channel" {
   description = "Operator channel for MAAS Region Controller deployment"
   type        = string
-  default     = "latest/edge"
+  default     = "latest/edge/wyatt-test"
 }
 
 variable "charm_maas_region_revision" {
